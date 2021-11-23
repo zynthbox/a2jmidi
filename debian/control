@@ -2,7 +2,7 @@ Source: a2jmidi
 Section: misc
 Priority: optional
 Maintainer: Leszek Lesner <leszek@zevenos.com>
-Build-Depends: debhelper (>= 11), cmake (>= 3.16), libjack-jackd2-dev, libcurl4-gnutls-dev, pkg-config, librtmidi-dev
+Build-Depends: debhelper (>= 11), cmake (>= 3.16), libjack-jackd2-dev, libcurl4-gnutls-dev, pkg-config, librtmidi-dev, libboost-all-dev
 Standards-Version: 4.1.3
 Homepage: https://github.com/zynthbox/a2jmidi
 
